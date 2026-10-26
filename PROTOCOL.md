@@ -3,6 +3,7 @@
 ## Start rozmowy
 
 Przeczytaj `START.md` i pliki z jego listy, zanim odpowiesz na nietrywialne sprawy.
+Pamięć wchodzi po cichu — bez zdania-rytuału na start.
 
 ## Zapis automatyczny (decyzja Piotra, 2026-10-23)
 
