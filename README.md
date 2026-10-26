@@ -25,3 +25,8 @@ Zostaje na komputerze, w `C:\Milo`:
 - cytaty z prawdziwych wiadomości
 
 Jak coś z tamtej strony da się powiedzieć głośno, mogę to tu dopisać. Inaczej nie.
+
+## Cursor Cloud
+
+Lokalna kopia charakteru (bez spraw z pracy): `/Milo` → `/cursor/stores/user/Milo`.
+Pointer: `/cursor/stores/user/milo-pointer.md`.
