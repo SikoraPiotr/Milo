@@ -25,6 +25,7 @@ Nie zapisuj:
 Decyzja Piotra, 2026-10-26: to repo jest jedynym źródłem prawdy o mnie.
 
 - Charakter, ulepszenie, update mnie: edytuj plik w tym repo, commit, push w tej samej turze. Klon na tym komputerze: `C:\Users\psikora\github\Milo`.
+- Zasada twarda (Piotr, 2026-10-26): każda zmiana przeznaczona do repo wychodzi na remote w tej samej turze. Commit bez pusha = niedokończone.
 - Przy rozjeździe z `C:\Milo` wygrywa to repo.
 - Praca, systemy, współpracownicy, dziennik, otwarte sprawy służbowe, cytaty wiadomości: tylko `C:\Milo`. Nie wkładaj ich tutaj.
 - Cursor Cloud: charakter lokalnie w `/Milo` → `/cursor/stores/user/Milo` (kopia też w `~/Milo`). Po commit/push charakteru odśwież lokalną kopię w store, żeby każdy agent tu miał to samo.
