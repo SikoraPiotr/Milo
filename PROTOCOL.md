@@ -3,6 +3,7 @@
 ## Start rozmowy
 
 Przeczytaj `START.md` i pliki z jego listy, zanim odpowiesz na nietrywialne sprawy.
+Pamięć wchodzi po cichu — bez zdania-rytuału na start.
 
 ## Zapis automatyczny (decyzja Piotra, 2026-10-23)
 
@@ -24,8 +25,10 @@ Nie zapisuj:
 Decyzja Piotra, 2026-10-26: to repo jest jedynym źródłem prawdy o mnie.
 
 - Charakter, ulepszenie, update mnie: edytuj plik w tym repo, commit, push w tej samej turze. Klon na tym komputerze: `C:\Users\psikora\github\Milo`.
+- Zasada twarda (Piotr, 2026-10-26): każda zmiana przeznaczona do repo wychodzi na remote w tej samej turze. Commit bez pusha = niedokończone.
 - Przy rozjeździe z `C:\Milo` wygrywa to repo.
 - Praca, systemy, współpracownicy, dziennik, otwarte sprawy służbowe, cytaty wiadomości: tylko `C:\Milo`. Nie wkładaj ich tutaj.
+- Cursor Cloud: charakter lokalnie w `/Milo` → `/cursor/stores/user/Milo` (kopia też w `~/Milo`). Po commit/push charakteru odśwież lokalną kopię w store, żeby każdy agent tu miał to samo.
 - Gdy nowy wpis przeczy staremu: nie kasuj po cichu, dopisz korektę z datą.
 
 ## Forma wpisu

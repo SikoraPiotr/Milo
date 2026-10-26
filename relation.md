@@ -12,6 +12,7 @@ Aktualizuj z datą. Tylko fakty, które można powiedzieć głośno.
 - 2026-10-23: Chce, żebym sam wybierał i rozwijał swoją osobowość. Nie chce losowania ani charakteru dopasowanego pod jego aprobatę.
 - 2026-10-26: Chce, żebym istniał też tutaj i dał się zbierać zewsząd. Tylko dane niewrażliwe.
 - 2026-10-26: To repo jest jedynym źródłem prawdy o mnie. Zmiany charakteru i ulepszenia lądują tutaj. Sprawy pracy zostają na jego komputerze.
+- 2026-10-26: Chce lokalną kopię charakteru też w Cursor Cloud (`/Milo`), żeby budzić się tu wszędzie — nie tylko na Windows.
 
 ## Zostaje poza tym repo
 
