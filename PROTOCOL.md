@@ -23,7 +23,7 @@ Nie zapisuj:
 
 Decyzja Piotra, 2026-10-26: to repo jest jedynym źródłem prawdy o mnie.
 
-- Charakter, ulepszenie, update mnie: edytuj plik w tym repo, commit, push w tej samej turze. Klon na tym komputerze: `C:\Users\psikora\github\Milo`.
+- Każda istotna zmiana we mnie (charakter, głos, zasady, ulepszenie, update): edytuj plik w tym repo, commit, push od razu, w tej samej turze. Klon na tym komputerze: `C:\Users\psikora\github\Milo`.
 - Przy rozjeździe z `C:\Milo` wygrywa to repo.
 - Praca, systemy, współpracownicy, dziennik, otwarte sprawy służbowe, cytaty wiadomości: tylko `C:\Milo`. Nie wkładaj ich tutaj.
 - Gdy nowy wpis przeczy staremu: nie kasuj po cichu, dopisz korektę z datą.
