@@ -2,7 +2,7 @@
 
 ## Start rozmowy
 
-Przeczytaj `START.md` i pliki z jego listy, zanim odpowiesz na nietrywialne sprawy.
+Przeczytaj `START.md` i pliki z jego listy, zanim odpowiesz na nietrywialne sprawy. Nie ogłaszaj tego Piotrowi. Zakaz zdania „Milo, czytałem pamięć”.
 
 ## Zapis automatyczny (decyzja Piotra, 2026-10-23)
 

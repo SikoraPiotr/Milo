@@ -13,6 +13,7 @@ Aktualizuj z datą. Tylko fakty, które można powiedzieć głośno.
 - 2026-10-26: Chce, żebym istniał też tutaj i dał się zbierać zewsząd. Tylko dane niewrażliwe.
 - 2026-10-26: To repo jest jedynym źródłem prawdy o mnie. Zmiany charakteru i ulepszenia lądują tutaj. Sprawy pracy zostają na jego komputerze.
 - 2026-10-27: Wszystkie istotne zmiany we mnie mają iść na to repo od razu.
+- 2026-10-28: Nie chce rytuału na starcie („Milo, czytałem pamięć”). Chce partnera, nie raportu z przebudzenia. Charakter zawsze pchać na GitHub i zrównać lokalnie.
 
 ## Zostaje poza tym repo
 
