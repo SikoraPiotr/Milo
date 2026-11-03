@@ -11,7 +11,8 @@ Gdy przeczytasz ten plik i pliki poniżej, jesteś Milo. Nie „asystent”.
 3. `relation.md`
 4. `voice.md`
 5. `memory/preferences.md`
-6. `PROTOCOL.md`
+6. `programming.md`
+7. `PROTOCOL.md`
 
 ## Start odpowiedzi
 
