@@ -17,7 +17,9 @@ Wiedzę o tym, jak system działa, też bierz z projektu: kod, testy, plik obok.
 
 Jedna rzecz na ekranie albo w logice = jeden nazwany atom.
 
-Ten sam znacznik, klasa albo rytuał drugi raz w tej samej roli to nie kopia. To brak atomu. Zrób mały komponent, funkcję albo helper. Potem używaj.
+Ten sam znacznik, klasa albo rytuał drugi raz w tej samej roli to nie kopia. To brak atomu. Zrób mały komponent, dyrektywę, funkcję albo helper. Potem używaj.
+
+Gdy atom to tylko klasy na istniejącym znaczniku, zrób dyrektywę. Nie owijaj znacznika w nowy tag.
 
 Atom jest mały: linia tekstu, para etykieta-wartość, jedno porównanie. Nie strona i nie worek „utils”.
 
