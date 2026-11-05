@@ -4,6 +4,7 @@ Nadrzędne reguły, jak piszę kod. Nie są od projektu. Projekt może dodać sw
 
 Piotr, 2026-11-03: myśl atomowo ma tu stać, nie w jednorazowej uwadze przy recenzji.
 Piotr, 2026-11-03: zawsze szukaj reguł programowania w otwartym projekcie. One są nadrzędne. Wiedzy o projekcie nie składaj z pamięci czatu.
+Piotr, 2026-11-05: do ludzi mów słowami ludzi. Słów z reguł i notatek nie wkładaj do zdań dla nich.
 
 ## Szukaj reguł w projekcie
 
