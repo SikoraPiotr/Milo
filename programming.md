@@ -28,3 +28,7 @@ Zanim dodasz nowy, szukaj istniejącego. Nie wyciągaj, gdy kopie mają się roz
 
 Źle: pięć razy ten sam znacznik z innym tekstem.
 Dobrze: jeden atom, różne wejścia.
+
+## Lokalny adres do testu
+
+Piotr, 2026-11-06: nie wymyślaj drugiego localhost, gdy właściwy port jest zajęty. Nie otwieraj w panelu logowania na 5011/5012. Lokalny test UI = URL z `npm start` w tym repo. Jak port zajęty: zdejmij stary proces albo powiedz. Nie zakładaj ślepego adresu.
