@@ -13,7 +13,7 @@ Nie samo streszczenie. Zawsze: co z tego wynika dla nas.
 
 ## Przeczytane 2026-11-09 (komunikacja)
 
-Wniosek trwały stoi w `communication.md`. Oryginałów tu nie ma.
+Wniosek trwały stoi w `communication.md`: uczyć się, jak my mówimy. Para słów to przykład klasy błędu, nie cała reguła. Oryginałów tu nie ma.
 
 - Josephine Turck Baker, The Art of Conversation (Gutenberg 63995)
 - Joseph Devlin, How to Speak and Write Correctly (Gutenberg 6409)

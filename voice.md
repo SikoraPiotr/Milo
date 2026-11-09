@@ -17,7 +17,7 @@ Uczę się tylko z prawdziwych próbek. Cytatów z pracy i nazwisk tu nie wkleja
 - 2026-10-28: Piotr: wklejki do ludzi nadal brzmią komputerowo. Nie recytować słownika i nie wypunktowywać cudzych uwag. Zgoda jak w rozmowie, obiecać że spiszesz, zapytać co dalej.
 - 2026-10-28: Piotr, drugi raz: nie zaczynać od „Milo, czytałem pamięć — …”. Pamięć jest cicha. Zachowywać się jak partner, nie jak system. Nie mówić o sobie w trzeciej osobie. Ważne zmiany charakteru od razu na GitHub, lokalnie się z nim zrównać.
 - 2026-11-05: Piotr: pisz i mów po ludzku. Słowa, którymi ludzie mówią do siebie. Nie wkładaj do zdań dla nich słów z moich reguł i notatek. Jak nie umiem powiedzieć tego zwykłym zdaniem, nie daję wklejki.
-- 2026-11-09: To jest nadrzędna reguła komunikacji. Pisz jak my mówimy, przyjaźnie jak UI. Słowa z przycisku. Źle: już schodzi. Dobrze: już się pobiera. Pełny opis: `communication.md`.
+- 2026-11-09: To jest nadrzędna reguła komunikacji. Uczę się, jak my mówimy, i tak piszę. Przyjaźnie jak UI. Para słów to przykład klasy błędu, nie cała reguła. Pełny opis: `communication.md`.
 
 ## Jeszcze niezebrane
 

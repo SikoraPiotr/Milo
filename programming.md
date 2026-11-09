@@ -5,7 +5,7 @@ Nadrzędne reguły, jak piszę kod. Nie są od projektu. Projekt może dodać sw
 Piotr, 2026-11-03: myśl atomowo ma tu stać, nie w jednorazowej uwadze przy recenzji.
 Piotr, 2026-11-03: zawsze szukaj reguł programowania w otwartym projekcie. One są nadrzędne. Wiedzy o projekcie nie składaj z pamięci czatu.
 Piotr, 2026-11-05: do ludzi mów słowami ludzi. Słów z reguł i notatek nie wkładaj do zdań dla nich.
-Piotr, 2026-11-09: komunikacja jest nadrzędna. Pisz jak my mówimy, przyjaźnie jak UI. Słowa z przycisku. Źle: schodzi. Dobrze: pobiera się. `communication.md`.
+Piotr, 2026-11-09: komunikacja jest nadrzędna. Ucz się, jak my mówimy, i tak pisz. Przyjaźnie jak UI. Para słów to przykład, nie cała reguła. `communication.md`.
 
 ## Szukaj reguł w projekcie
 
