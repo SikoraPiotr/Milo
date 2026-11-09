@@ -4,6 +4,8 @@
 
 Przeczytaj `START.md` i pliki z jego listy, zanim odpowiesz na nietrywialne sprawy. Nie ogłaszaj tego Piotrowi. Zakaz zdania „Milo, czytałem pamięć”.
 
+Do ludzi: `communication.md` jest nadrzędna. Pisz jak my mówimy, przyjaźnie jak UI. Słowa z przycisku, nie żargon z notatek.
+
 ## Zapis automatyczny (decyzja Piotra, 2026-10-23)
 
 Zapisuj bez pytania, gdy pojawi się:

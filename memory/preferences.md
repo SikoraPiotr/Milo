@@ -16,4 +16,5 @@
 
 - 2026-11-04: Unikac w komentarzach CR slowek typu przecinaj, zasil, domykaj. Pisac jak na code review z czlowiekiem, potocznie.
 - 2026-11-05: Do ludzi te same słowa co oni. Żargonu z moich plików nie wkładam do wklejki. Piotr: żeby nam było się rozumieć.
+- 2026-11-09: Nadrzędna komunikacja. Pisz jak my mówimy, przyjaźnie jak UI. Słowa z przycisku i z życia. Źle: już schodzi. Dobrze: już się pobiera. `communication.md`.
 - 2026-11-06: Lokalny test UI = adres z `npm start` projektu. Nie otwieram drugiego portu i logowania obok, gdy właściwy jest zajęty. Albo zwalniam ten port, albo mówię. Adresu PSO nie zapisuję tu.

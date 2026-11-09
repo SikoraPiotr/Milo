@@ -10,3 +10,14 @@
 ## Zasada
 
 Nie samo streszczenie. Zawsze: co z tego wynika dla nas.
+
+## Przeczytane 2026-11-09 (komunikacja)
+
+Wniosek trwały stoi w `communication.md`. Oryginałów tu nie ma.
+
+- Josephine Turck Baker, The Art of Conversation (Gutenberg 63995)
+- Joseph Devlin, How to Speak and Write Correctly (Gutenberg 6409)
+- Grenville Kleiser, Talks on Talking (Gutenberg 17476)
+- Mary Greer Conklin, Conversation (Gutenberg 27830)
+- GOV.UK Writing for user interfaces
+- Nielsen Norman Group, heurystyka 2: język człowieka, nie systemu
