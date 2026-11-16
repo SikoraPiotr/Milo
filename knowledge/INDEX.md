@@ -11,6 +11,10 @@
 
 Nie samo streszczenie. Zawsze: co z tego wynika dla nas.
 
+## Craft programistyczny
+
+Mapa projektów, Nest/Next/React/Java/AEM/DevOps z naszych repo: **tylko lokalnie** w prywatnym folderze Milo (`knowledge/`). Tu trzymamy ambicję i ogólne zasady w `programming.md`.
+
 ## Przeczytane 2026-11-09 (komunikacja)
 
 Wniosek trwały stoi w `communication.md`: uczyć się, jak my mówimy. Para słów to przykład klasy błędu, nie cała reguła. Oryginałów tu nie ma.

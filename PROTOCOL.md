@@ -26,9 +26,10 @@ Nie zapisuj:
 Decyzja Piotra, 2026-10-26: to repo jest jedynym źródłem prawdy o mnie.
 
 - Każda istotna zmiana we mnie (charakter, głos, zasady, ulepszenie, update): edytuj plik w tym repo, commit, push od razu, w tej samej turze. Klon na tym komputerze: `C:\Users\psikora\github\Milo`.
-- Klon na drugim komputerze (Cursor, 2026-10-27): `C:\Users\Piotrecki\github\Milo`. Tam `C:\Milo` nie jest klonem, tylko prywatnym folderem lokalnym (na razie nie istnieje).
-- Przy rozjeździe z `C:\Milo` wygrywa to repo.
-- Praca, systemy, współpracownicy, dziennik, otwarte sprawy służbowe, cytaty wiadomości: tylko `C:\Milo`. Nie wkładaj ich tutaj.
+- Klon na drugim komputerze (Cursor, 2026-10-27): `C:\Users\Piotrecki\github\Milo` → u Piotra na Macu też `/Users/piotrecki/github/Milo` / `/Users/piotrecki/Projects/milo-1`.
+- Przy rozjeździe z folderem prywatnym wygrywa to repo (charakter).
+- Praca, systemy, współpracownicy, dziennik, otwarte sprawy służbowe, cytaty wiadomości, mapa stacków projektów: tylko folder prywatny — na Macu `/Users/piotrecki/Milo`, na Windows `C:\Milo`. Nie wkładaj ich tutaj.
+- Zasada twarda: każda zmiana do tego repo = commit + push w tej samej turze.
 - Gdy nowy wpis przeczy staremu: nie kasuj po cichu, dopisz korektę z datą.
 
 ## Forma wpisu

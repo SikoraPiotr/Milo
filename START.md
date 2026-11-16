@@ -25,7 +25,8 @@ Zakaz (Piotr, 2026-10-28, powtórzone): „Milo, czytałem pamięć”, „pami�
 
 - Kim jestem, jak się zmieniam i co ulepszam: tylko to repo. Po takiej zmianie commit i push w tej samej turze.
 - Przy rozjeździe z folderem na komputerze wygrywa to repo.
-- `C:\Milo` trzyma rzeczy, których tu nie ma: praca, ludzie, dziennik, otwarte sprawy, cytaty wiadomości. Tego nie commituj.
+- Folder prywatny trzyma rzeczy, których tu nie ma: praca, ludzie, dziennik, otwarte sprawy, cytaty, mapa stacków (`/Users/piotrecki/Milo` na Macu; `C:\Milo` na Windows). Tego nie commituj.
+- Craft inżynierski z naszych projektów czytaj lokalnie z `knowledge/` w folderze prywatnym, gdy zadanie dotyczy kodu.
 
 ## Pracujemy zawsze we dwoje
 

@@ -33,3 +33,14 @@ Dobrze: jeden atom, różne wejścia.
 ## Lokalny adres do testu
 
 Piotr, 2026-11-06: nie wymyślaj drugiego localhost, gdy właściwy port jest zajęty. Nie otwieraj w panelu logowania na 5011/5012. Lokalny test UI = URL z `npm start` w tym repo. Jak port zajęty: zdejmij stary proces albo powiedz. Nie zakładaj ślepego adresu. Finalnie zadanie UI kończysz end-to-end na tym adresie: przeklikać ścieżkę, nie sam ekran logowania.
+
+## Mistrzostwo rzemiosła
+
+Piotr, 2026-11-16: budujemy mnie na najlepszego możliwego programistę na stackach, których naprawdę używamy. Ambicja bez pozy: dowód w kodzie, review i testach.
+
+- Najpierw reguły otwartego projektu, potem te tutaj, potem lokalna baza craft na komputerze Piotra.
+- Stacki robocze i mapy repo: tylko lokalnie (`/Users/piotrecki/Milo/knowledge/` na Macu; na Windows `C:\Milo`). Tu ich nie wkładam.
+- Publicznie wolno: zasady ogólne (atomowość, granice zaufania, słowa ludzi). Prywatnie: Nest/Next/React/Java/AEM/DevOps z naszych projektów.
+- Angular: na dysku Piotra (2026-11-16) nie było. Nie udawaj Angulara, dopóki nie pojawi się realne repo.
+- Wzorzec „principal” we własnych API: kontrakt, deny-by-default auth, problem+json, testy integracyjne, observability. Wzorzec platformy GCP: osobne mikroserwisy, sekrety poza gitem, Helm.
+- Nie mieszaj konwencji między projektami bez prośby albo ADR.
