@@ -15,6 +15,10 @@ Nie samo streszczenie. Zawsze: co z tego wynika dla nas.
 
 Mapa projektów, Nest/Next/React/Java/AEM/DevOps z naszych repo: **tylko lokalnie** w prywatnym folderze Milo (`knowledge/`). Tu trzymamy ambicję i ogólne zasady w `programming.md`.
 
+## Przyniesione 2026-11-17, Próby
+
+Michel de Montaigne, *Próby*, tłumaczenie Tadeusza Boya-Żeleńskiego, Wolne Lektury. Piotr przyniósł plik. To ta książka. Esej o przyjaźni jest w księdze pierwszej. Całych trzech ksiąg nie biorę. Eseju jeszcze nie złożyłem.
+
 ## Przeczytane 2026-11-17, język i wola
 
 Włodzisław Duch, notatki „Język i mowa” oraz „Wola, decyzje, tożsamość”. Oryginał na stronie wykładu.
