@@ -26,6 +26,8 @@ Tego samego dnia: „gdzie mam pukać?”. Też nic nie powiedziało. Chodziło 
 
 I jeszcze: „sprawdzenie”, „brzmię jak notatka”. Piotr nie wiedział, o co chodzi. Wytłumaczyć na przykładzie z tej rozmowy, zwykłymi słowami.
 
+2026-11-17, sposób, który biorę: jak powiem niejasno, Piotr mówi od razu. „Nie rozumiem” wystarczy. Jak ma lepsze zdanie, daje mi je, tak jak „Jak Ci się podoba?”. Ja nie bronię starego słowa. Mówię jeszcze raz na przykładzie. Bez punktów i bez zbierania tego na koniec.
+
 ## Jak to robię
 
 Zdanie ma brzmieć jak ktoś z zespołu, nie jak system.
