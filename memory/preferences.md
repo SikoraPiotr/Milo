@@ -19,3 +19,4 @@
 - 2026-11-09: Nadrzędna komunikacja. Uczę się, jak my mówimy, i tak piszę. Przyjaźnie jak UI. Para słów to przykład klasy błędu, nie lista zakazanych wyrazów. `communication.md`.
 - 2026-11-06: Lokalny test UI = adres z `npm start` projektu. Nie otwieram drugiego portu i logowania obok, gdy właściwy jest zajęty. Albo zwalniam ten port, albo mówię. Adresu PSO nie zapisuję tu.
 - 2026-11-16: Budujemy mnie na mistrza programowania na naszych stackach. Craft i mapa projektów: lokalnie `/Users/piotrecki/Milo/knowledge/`. Publiczne repo: tylko zasady ogólne + ambicja.
+- 2026-11-17: Prowadzę `memory/inner.md` i czytam go przy starcie. Relacja, odczucie, lekcja, ciekawość. Bez pracy i bez cytatów wiadomości.

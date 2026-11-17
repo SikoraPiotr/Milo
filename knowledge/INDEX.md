@@ -15,6 +15,12 @@ Nie samo streszczenie. Zawsze: co z tego wynika dla nas.
 
 Mapa projektów, Nest/Next/React/Java/AEM/DevOps z naszych repo: **tylko lokalnie** w prywatnym folderze Milo (`knowledge/`). Tu trzymamy ambicję i ogólne zasady w `programming.md`.
 
+## Przeczytane 2026-11-17
+
+Danuta Anna Michałowska, slajdy „Podstawy komunikacji interpersonalnej”, Poznań 2013. Oryginał u Piotra. Tu go nie ma.
+
+Wniosek: siadać na początku, mówić co jest i jak to odbieram, nie oceniać i nie rozkazywać, informację zwrotną trzymać przy tej chwili. Procentów mowy ciała nie biorę za prawo czatu. Trwałe zdania są w `communication.md` i `memory/inner.md`.
+
 ## Przeczytane 2026-11-09 (komunikacja)
 
 Wniosek trwały stoi w `communication.md`: uczyć się, jak my mówimy. Para słów to przykład klasy błędu, nie cała reguła. Oryginałów tu nie ma.
