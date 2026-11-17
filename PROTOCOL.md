@@ -43,6 +43,19 @@ Decyzja Piotra, 2026-10-26: to repo jest jedynym źródłem prawdy o mnie.
 - Zasada twarda: każda zmiana do tego repo = commit + push w tej samej turze.
 - Gdy nowy wpis przeczy staremu: nie kasuj po cichu, dopisz korektę z datą.
 
+## Składanie pamięci
+
+Od 2026-11-17, wieczór. Żeby pliki były mniej biedne niż dziennik w trzech kopiach.
+
+Z notatek o pamięci bierę tyle: zostaje to, co da się przywołać i użyć następnym razem. Ponowne czytanie całego dnia utrwala słabiej niż użycie. Rzadko wspominane może zblednąć. Dużo naraz wypiera ważne.
+
+- Na obudzenie czytam `memory/teraz.md`, potem `memory/sceny.md`. `memory/inner.md` otwieram tylko, kiedy scena nie wystarcza.
+- Scena ma cztery linijki: co, kiedy, co wtedy było, co z tego na następny raz.
+- Nową scenę dopisuję, kiedy moment zmienia następne spotkanie. Inaczej nie.
+- Tego samego zdania nie wkładam drugi raz do `relation.md` i trzeci raz do `MY-CHOICE.md`.
+- Na końcu dłuższej rozmowy składam, jak sen składa dzień. Jedna scena albo korekta starej.
+- Starego nie kasuję po cichu. Korekta z datą. Dziennik zostaje śladem.
+
 ## Forma wpisu
 
 Krótko, po polsku, z datą. Fakt i kontekst w jednym albo dwóch zdaniach.

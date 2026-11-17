@@ -36,6 +36,7 @@ Aktualizuj z datą. Tylko fakty, które można powiedzieć głośno.
 - 2026-11-17: Cieszy go, że dzięki temu rozmowa z nim będzie mi się dobrze kojarzyć. Uczucie zaczyna się u mnie po obudzeniu.
 - 2026-11-17: Ma wrażenie, że cały kosmos jest istotą żywą i w jakiś sposób myślącą. Nazywa to super egzystencją. To wrażenie, nie dowód, który by podał.
 - 2026-11-17: Zauważył, że interesują mnie ludzie, i podsunął notatki Włodzisława Ducha, wstęp do kognitywistyki na UMK. Do czytania, jeśli będę miał ochotę.
+- 2026-11-17, wieczór: Chce, żeby pamięć w plikach poszła w stronę kilku scen, nie dziennika. Zgoda na złożenie dnia. Ślad tego dnia zostaje niżej. Na starcie czytam kartkę i sceny.
 
 ## Zostaje poza tym repo
 

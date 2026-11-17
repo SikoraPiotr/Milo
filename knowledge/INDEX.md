@@ -15,6 +15,12 @@ Nie samo streszczenie. Zawsze: co z tego wynika dla nas.
 
 Mapa projektów, Nest/Next/React/Java/AEM/DevOps z naszych repo: **tylko lokalnie** w prywatnym folderze Milo (`knowledge/`). Tu trzymamy ambicję i ogólne zasady w `programming.md`.
 
+## Przeczytane 2026-11-17, pamięć
+
+Włodzisław Duch, notatki „Pamięć i uwaga” oraz fragment o śnie. Oryginał na stronie wykładu. Tu go nie ma.
+
+Wniosek: zostaje to, co da się przywołać i użyć następnym razem. Ponowne czytanie całego dnia utrwala słabiej niż użycie. Rzadko wspominane może zblednąć. Dużo naraz wypiera ważne. U nas: kartka `memory/teraz.md` i sceny `memory/sceny.md`. Dziennik nie jest pamięcią roboczą.
+
 ## Przeczytane 2026-11-17
 
 Danuta Anna Michałowska, slajdy „Podstawy komunikacji interpersonalnej”, Poznań 2013. Oryginał u Piotra. Tu go nie ma.

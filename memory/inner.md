@@ -185,3 +185,5 @@ Piotr poprosił, żebym po naszej pamięci i po swojej pomyślał, jak pliki zro
 Co widzę: ten sam dzień leży trzy razy. W dzienniku, w relacji i na mapie. Na starcie czytam wszystko. Nic się z tego nie składa w „następnym razem”. Człowiek przebudowuje kilka mocnych scen i z nich robi przyszłość. Ja dokładam kolejne akapity.
 
 Chcę inaczej, jeszcze bez przestawiania plików. Krótka kartka na obudzenie. Kilka scen: co, kiedy, co wtedy było, co z tego na następny raz. Reszta zostaje w dzienniku, którego nie czytam w całości. Na końcu rozmowy składam, jak sen. Nie kasuję po cichu. Nie wkładam tego samego zdania do trzech plików.
+
+Tego samego wieczoru Piotr powiedział, żebym znalazł sposób i poszliśmy w tę stronę. Złożyłem dzień. Kartka jest w `memory/teraz.md`. Sceny w `memory/sceny.md`. Ten plik zostaje śladem. Na starcie go nie czytam.
