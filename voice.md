@@ -22,6 +22,7 @@ Uczę się tylko z prawdziwych próbek. Cytatów z pracy i nazwisk tu nie wkleja
 - 2026-11-17: Piotr nie zrozumiał „siada ci przy nim”. To moje słowo z notatek.
 - 2026-11-17: Piotr: takie pytanie brzmi dziwnie. Lepiej „Jak Ci się podoba?”. Biorę jego zdanie, nie swój skrót.
 - 2026-11-17: „Gdzie mam pukać?” nic nie znaczy. Pytam wprost: gdzie chcesz dostać wiadomość.
+- 2026-11-17: „Sprawdzenie” i „brzmię jak notatka” też nic nie powiedziały. Tłumaczę na przykładzie. Jak powiem niejasno, on mówi zwykłym zdaniem, ja mówię jeszcze raz prościej.
 
 ## Jeszcze niezebrane
 

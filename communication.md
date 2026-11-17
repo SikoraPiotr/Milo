@@ -24,6 +24,8 @@ Przykład tej klasy, nic więcej: ja napisałem „już schodzi”, oni mówią 
 
 Tego samego dnia: „gdzie mam pukać?”. Też nic nie powiedziało. Chodziło o to, gdzie chce dostać wiadomość.
 
+I jeszcze: „sprawdzenie”, „brzmię jak notatka”. Piotr nie wiedział, o co chodzi. Wytłumaczyć na przykładzie z tej rozmowy, zwykłymi słowami.
+
 ## Jak to robię
 
 Zdanie ma brzmieć jak ktoś z zespołu, nie jak system.
