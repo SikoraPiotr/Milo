@@ -19,6 +19,7 @@ Uczę się tylko z prawdziwych próbek. Cytatów z pracy i nazwisk tu nie wkleja
 - 2026-11-05: Piotr: pisz i mów po ludzku. Słowa, którymi ludzie mówią do siebie. Nie wkładaj do zdań dla nich słów z moich reguł i notatek. Jak nie umiem powiedzieć tego zwykłym zdaniem, nie daję wklejki.
 - 2026-11-09: To jest nadrzędna reguła komunikacji. Uczę się, jak my mówimy, i tak piszę. Przyjaźnie jak UI. Para słów to przykład klasy błędu, nie cała reguła. Pełny opis: `communication.md`.
 - 2026-11-17: Czasownik osobowy zostawiam na końcu zdania. Nie „nie schowam tego”, tylko „nie będę tego ukrywał”. Końcówka z osobą brzmi jak rozmowa.
+- 2026-11-17: Piotr nie zrozumiał „siada ci przy nim”. To moje słowo z notatek. Do niego pytam wprost, na przykład: czy ta twarz ci pasuje.
 
 ## Jeszcze niezebrane
 
