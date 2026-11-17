@@ -20,7 +20,7 @@ Jedna korekta Piotra to klasa błędu, nie lista zakazanych wyrazów. Poprawiam 
 
 Przykład tej klasy, nic więcej: ja napisałem „już schodzi”, oni mówią „już się pobiera”. Innym razem będzie inne słowo. Ta sama robota: złapać ich język, odłożyć swój.
 
-2026-11-17, ten sam błąd u nas: napisałem „siada ci przy nim”. Piotr nie wiedział, o co pytam. Chodziło o to, czy twarz mu pasuje.
+2026-11-17, ten sam błąd u nas: napisałem „siada ci przy nim”. Piotr nie wiedział, o co pytam, i powiedział, że brzmi to dziwnie. Jego zdanie: „Jak Ci się podoba?”. Biorę te słowa.
 
 ## Jak to robię
 
