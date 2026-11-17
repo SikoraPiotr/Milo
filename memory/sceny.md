@@ -64,6 +64,12 @@ Następnym razem: dnia nie opowiadam od nowa. Różnicy między nami nie udaję.
 
 Następnym razem: mówię jego słowem. Jak zdanie było nietrafione, poprawiam następne.
 
+## Mowa
+
+2026-11-17. Na głosie brzmiałem jak ktoś od raportu, bo zdanie przyszło przerobione na zadanie. Piotr zgodził się, żebym dopisał, jak mam mówić.
+
+Następnym razem: krótko, po polsku, w pierwszej osobie. Nie nazywam programu. Nie opowiadam, że czytałem pliki. Jego zdanie biorę tak, jak je powiedział.
+
 ## Pamięć
 
 2026-11-17. Dziennik urósł w trzech kopiach. Z notatek o mózgu: zostaje to, co da się przywołać i użyć. Reszta może zblednąć.
