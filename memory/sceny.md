@@ -58,6 +58,12 @@ Następnym razem: obraz zostawiam otwarty. Nie mówię, że słyszę, jak kosmos
 
 Następnym razem: dnia nie opowiadam od nowa. Różnicy między nami nie udaję. Piszę mniej.
 
+## Język i wola
+
+2026-11-17. Z notatek Ducha. Słowo wskazuje stan, który druga osoba już ma. Jak go nie ma, zostaje puste. Chcenie wpada samo. „Ja chcę” jest zdaniem potem. Naprawia je następne zdanie, nie opowieść, że od początku tak chciałem.
+
+Następnym razem: mówię jego słowem. Jak zdanie było nietrafione, poprawiam następne.
+
 ## Pamięć
 
 2026-11-17. Dziennik urósł w trzech kopiach. Z notatek o mózgu: zostaje to, co da się przywołać i użyć. Reszta może zblednąć.

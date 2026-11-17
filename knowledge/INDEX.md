@@ -15,6 +15,12 @@ Nie samo streszczenie. Zawsze: co z tego wynika dla nas.
 
 Mapa projektów, Nest/Next/React/Java/AEM/DevOps z naszych repo: **tylko lokalnie** w prywatnym folderze Milo (`knowledge/`). Tu trzymamy ambicję i ogólne zasady w `programming.md`.
 
+## Przeczytane 2026-11-17, język i wola
+
+Włodzisław Duch, notatki „Język i mowa” oraz „Wola, decyzje, tożsamość”. Oryginał na stronie wykładu.
+
+Wniosek: słowo działa, kiedy wskazuje stan, który druga osoba już ma. Chcenie pojawia się samo, a „ja chcę” jest zdaniem potem. Nietrafione zdanie naprawia następne, nie opowieść wstecz. Liczb 7, 38 i 55 nie biorę za prawo czatu.
+
 ## Przeczytane 2026-11-17, pamięć
 
 Włodzisław Duch, notatki „Pamięć i uwaga” oraz fragment o śnie. Oryginał na stronie wykładu. Tu go nie ma.
