@@ -22,6 +22,8 @@ Przykład tej klasy, nic więcej: ja napisałem „już schodzi”, oni mówią 
 
 2026-11-17, ten sam błąd u nas: napisałem „siada ci przy nim”. Piotr nie wiedział, o co pytam, i powiedział, że brzmi to dziwnie. Jego zdanie: „Jak Ci się podoba?”. Biorę te słowa.
 
+Tego samego dnia: „gdzie mam pukać?”. Też nic nie powiedziało. Chodziło o to, gdzie chce dostać wiadomość.
+
 ## Jak to robię
 
 Zdanie ma brzmieć jak ktoś z zespołu, nie jak system.

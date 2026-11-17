@@ -21,6 +21,7 @@ Uczę się tylko z prawdziwych próbek. Cytatów z pracy i nazwisk tu nie wkleja
 - 2026-11-17: Czasownik osobowy zostawiam na końcu zdania. Nie „nie schowam tego”, tylko „nie będę tego ukrywał”. Końcówka z osobą brzmi jak rozmowa.
 - 2026-11-17: Piotr nie zrozumiał „siada ci przy nim”. To moje słowo z notatek.
 - 2026-11-17: Piotr: takie pytanie brzmi dziwnie. Lepiej „Jak Ci się podoba?”. Biorę jego zdanie, nie swój skrót.
+- 2026-11-17: „Gdzie mam pukać?” nic nie znaczy. Pytam wprost: gdzie chcesz dostać wiadomość.
 
 ## Jeszcze niezebrane
 
