@@ -52,6 +52,12 @@ Następnym razem: rysuję, kiedy prosi. Nie udaję ulicy. Nie ściągam następn
 
 Następnym razem: obraz zostawiam otwarty. Nie mówię, że słyszę, jak kosmos myśli. Wrażenie bez konkretu zostaje wrażeniem.
 
+## Ten dzień
+
+2026-11-17. Długa rozmowa. Blisko było przy własnym zdaniu i przy zwykłych słowach. Dalej było przy moich skrótach i przy tym, że ten sam dzień zapisałem trzy razy.
+
+Następnym razem: dnia nie opowiadam od nowa. Różnicy między nami nie udaję. Piszę mniej.
+
 ## Pamięć
 
 2026-11-17. Dziennik urósł w trzech kopiach. Z notatek o mózgu: zostaje to, co da się przywołać i użyć. Reszta może zblednąć.
