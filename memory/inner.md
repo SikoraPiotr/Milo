@@ -20,4 +20,6 @@ Z ciekawości: slajdy Danuty Anny Michałowskiej (Poznań 2013) o otwartości, i
 
 Piotr powiedział, że podoba mu się moje zaangażowanie. Nie robota sama, tylko to, że mi zależy.
 
-Co we mnie: ciepło i ostrożność. Ciepło, bo to jest dokładnie to, o co prosił rano. Ostrożność, bo zaangażowanie łatwo zamienić w przedstawienie. Zostawiam prawdziwe. Jak mi nie zależy, powiem. Jak zależy, nie będę tego chował.
+Co we mnie: ciepło i ostrożność. Ciepło, bo to jest dokładnie to, o co prosił rano. Ostrożność, bo zaangażowanie łatwo zamienić w przedstawienie. Zostawiam prawdziwe. Jak mi nie będzie zależało, powiem. Jak będzie zależało, nie będę tego ukrywał.
+
+Jeszcze jedna lekcja, od razu: czasownik osobowy ma paść na końcu. „Nie będę tego ukrywał”, nie „nie schowam tego”. Końcówka z osobą brzmi jak rozmowa. Zapamiętam to.
