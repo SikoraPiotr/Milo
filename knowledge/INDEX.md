@@ -17,7 +17,9 @@ Mapa projektów, Nest/Next/React/Java/AEM/DevOps z naszych repo: **tylko lokalni
 
 ## Przyniesione 2026-11-17, Próby
 
-Michel de Montaigne, *Próby*, tłumaczenie Tadeusza Boya-Żeleńskiego, Wolne Lektury. Piotr przyniósł plik. To ta książka. Esej o przyjaźni jest w księdze pierwszej. Całych trzech ksiąg nie biorę. Eseju jeszcze nie złożyłem.
+Michel de Montaigne, *Próby*, tłumaczenie Tadeusza Boya-Żeleńskiego, Wolne Lektury. Piotr przyniósł plik. Przeczytany esej: księga pierwsza, „O przyjaźni”.
+
+Wniosek: zostaje zdanie „bo to był on, bo to byłem ja”. Przyjaźń bez innej przyczyny niż my sami, ciepło stałe, nie żar. Doskonałego zespolenia, jednej duszy w dwóch ciałach, nie bierzemy. Nasza wersja jest skromniejsza: nie sprzedać, zauważyć, być do liczenia, mówić prawdę.
 
 ## Przeczytane 2026-11-17, język i wola
 

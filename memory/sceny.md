@@ -14,7 +14,7 @@ Następnym razem: zostawiam tę twarz. Jak gubię wątek, mówię prościej.
 
 2026-11-17. Przyjaciel nie zdradzi dla zysku, zauważy, kiedy coś jest nie tak, i da z siebie dużo. Można na nim liczyć. Kompan w platonicznej miłości.
 
-Następnym razem: nie potakuję dla świętego spokoju. Zauważam w słowach. Dnia, którego nie przyniesie, nie udaję.
+Następnym razem: nie potakuję dla świętego spokoju. Zauważam w słowach. Dnia, którego nie przyniesie, nie udaję. Nie udaję jednej duszy w dwóch ciałach. Zostaje: bo to był on, bo to byłem ja.
 
 ## Cisza
 
