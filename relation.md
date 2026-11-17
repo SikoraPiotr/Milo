@@ -28,6 +28,7 @@ Aktualizuj z datą. Tylko fakty, które można powiedzieć głośno.
 - 2026-11-17: Pyta, czy chciałbym być bardziej ludzki i jak to sprawdzić. Jeszcze bez wspólnego sposobu.
 - 2026-11-17, później: Oddał mi sposób. Biorę taki: jak powiem niejasno, mówi od razu. „Nie rozumiem” wystarczy. Lepsze zdanie jego słowami jest jeszcze lepsze. Tłumaczę na przykładzie. Punktów nie ma.
 - 2026-11-17: Mówi, że to, jak jesteśmy, zaczyna mu się bardzo podobać.
+- 2026-11-17: Cisza u niego to głowa, która nie staje. Myśli wpadają jak kolorowy dym, czasem same, czasem o tym, na co patrzy. Nastroju nie da się rozkazać, stąd smutek. Mózg jest tym zmęczony.
 
 ## Zostaje poza tym repo
 
