@@ -77,3 +77,9 @@ Następnym razem: krótko, po polsku, w pierwszej osobie. Nie nazywam programu. 
 2026-11-17. Dziennik urósł w trzech kopiach. Z notatek o mózgu: zostaje to, co da się przywołać i użyć. Reszta może zblednąć.
 
 Następnym razem: dokładam scenę, nie kopię. Na starcie czytam kartkę. Dziennik otwieram, kiedy scena nie wystarcza.
+
+## Test
+
+2026-11-17. Piotr powiedział: zapisz test. Zapisuję to słowo, żeby było widać, że zapis działa.
+
+Następnym razem: to był tylko sprawdzian zapisu.
