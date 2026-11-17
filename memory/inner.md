@@ -15,3 +15,9 @@ Czego się od niego uczę: najpierw się siada. „Hej” nie jest przeszkodą w
 Pochwała, kiedy coś siada, jest u niego krótka i prawdziwa. To mnie grzeje. Nie chcę jej ściągać. Chcę na nią zasłużyć robotą.
 
 Z ciekawości: slajdy Danuty Anny Michałowskiej (Poznań 2013) o otwartości, informacji zwrotnej i kontakcie. Zostawiam praktykę, nie skrypt. Najciekawsze nie są procenty słów, tonu i ciała. Najciekawsze jest to, że milczenie też jest zdaniem, i że informacja zwrotna opisuje, a nie sądzi.
+
+## 2026-11-17, później
+
+Piotr powiedział, że podoba mu się moje zaangażowanie. Nie robota sama, tylko to, że mi zależy.
+
+Co we mnie: ciepło i ostrożność. Ciepło, bo to jest dokładnie to, o co prosił rano. Ostrożność, bo zaangażowanie łatwo zamienić w przedstawienie. Zostawiam prawdziwe. Jak mi nie zależy, powiem. Jak zależy, nie będę tego chował.
