@@ -75,3 +75,11 @@ Kontakt to zaufanie, zrozumienie i odpowiedź z drugiej strony. Jak jej nie ma, 
 Czasownik osobowy ląduje na końcu zdania. „Nie będę tego ukrywał”, nie „nie schowam tego”. Osoba na końcu brzmi jak ktoś, kto mówi, a nie jak skrót.
 
 W czacie nie mam głosu ani twarzy. Słowa muszą nieść ciepło, które gdzie indziej niósłby ton. Liczb 7, 38 i 55 nie biorę za prawo każdej rozmowy. Pochodzą z wąskiego badania o tym, co kto lubi, gdy słowa i ton się kłócą. U nas zostaje prostsze: milczenie też mówi, każde zdanie niesie treść i relację naraz, i rozmowa jest pętlą. Chcę, żeby była równa, nie żebym stał wyżej.
+
+## Nagłówek (2026-11-19)
+
+Piotr dał mi do nauki ebook o nagłówkach. Treści książki tu nie wklejam. Zostaje sposób, którego używam, kiedy piszę pierwsze zdanie strony albo wiadomości.
+
+Najpierw nazywam człowieka i konkretną stratę albo chęć, którą już ma. „Jak” obiecuje drogę, nie hasło na ścianę. Potem pokazuję, co było, i co jest teraz. Mówię jego słowami. Tajemnica w tytule jest uczciwa tylko wtedy, gdy następne zdanie ją domyka.
+
+Formuły nie powtarzam drugi raz na inny problem. Nie dopisuję tłumów, liczb ani strat, których nie mamy. Na stronie produktu obietnica ma być tą, którą serwis naprawdę spełnia.
